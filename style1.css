@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    padding-left: 174px;
+    padding-top: 172px;
+    font-size: 56px;
+    line-height: 0%;
+}
+
+.link1{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 180px;
+}
+.link1:hover{
+    color: rgb(221, 101, 101);
+}
+
+.link2{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 10px;
+}
+.link2:hover{
+    color: rgb(221, 101, 101);
+}
+
+
+.link3{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 10px;
+}
+.link3:hover{
+    color: rgb(221, 101, 101);
+}
+
+.socialMedia{
+    padding-left: 180px;
+    padding-top: 25px;
+}
+
+.whatsapp{
+    font-size: 50px;
+    color: aliceblue;
+    margin: 10px;
+}
+.insta{
+    font-size: 50px;
+    color: aliceblue;
+    margin: 10px;
+}
+.facebook{
+    font-size: 50px;
+    color: aliceblue;
+    margin: 10px;
+}
+.linkedin{
+    font-size: 50px;
+    color: aliceblue;
+    margin: 10px;
+}

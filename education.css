@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    overflow: hidden;
+}
+
+.qualification{
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 500px;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-color: black;
+}
+
